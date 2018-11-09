@@ -1,0 +1,24 @@
+---
+title: "Psp system in Actinobacteria"
+description: |
+  GitHub repo accompanying the 2018 paper: *Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria*
+author:
+  - name: Janani Ravi 
+    url: https://jananiravi.github.io
+    affiliation: Michigan State University
+    affiliation_url: https://cvm.msu.edu
+date: "`r Sys.Date()`"
+output: radix::radix_article
+---
+
+## Psp system in Actinobacteria
+
+**Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria**
+
+*Janani Ravi*, Vivek Anantharaman, L Aravind, Maria L Gennaro
+
+*Antonie Van Leeuwenhoek J Microbiology*, Springer. 2018.
+
+[Manuscript PDF](https://github.com/jananiravi/psp-actinobacteria/blob/master/manuscript/2018-Ravi-Psp_actinobacteria-Anto.pdf) • [Supp Material](https://github.com/jananiravi/psp-actinobacteria/blob/master/manuscript/2018-Ravi-Psp_actinobacteria-Anto_Supp.xlsx)
+
+For questions or comments, please contact [me via email](janani@msu.edu).

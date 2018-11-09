@@ -6,6 +6,11 @@
 .RData
 .DS_Store
 .DS_Store?
+Icon
+Icon?
+Icon\r
+.Icon
+.Icon?
 
 # Example code in package build process
 *-Ex.R
@@ -36,3 +41,4 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
