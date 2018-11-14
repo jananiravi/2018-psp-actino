@@ -5,8 +5,16 @@ description: |
 author:
   - name: Janani Ravi 
     url: https://jananiravi.github.io
-    affiliation: Michigan State University
-    affiliation_url: https://cvm.msu.edu
+    affiliation: Public Health Research Institute, Rutgers University, Newark, NJ; janani.ravi@rutgers.edu
+    affiliation_url: https://phri.njms.rutgers.edu/
+  - name: "Vivek Anantharaman"
+    affiliation: National Center for Biotechnology Information, National Institutes of Health, Bethesda, MD
+  - name: "L Aravind"
+    affiliation: National Center for Biotechnology Information, National Institutes of Health, Bethesda, MD
+  - name: "Maria Laura Gennaro"
+    url: https://phri.njms.rutgers.edu/faculty-and-research/faculty/maria-gennaro/
+    affiliation: Public Health Research Institute, Rutgers University, Newark, NJ; marila.gennaro@rutgers.edu
+    affiliation_url: https://phri.njms.rutgers.edu/
 date: "`r Sys.Date()`"
 output: radix::radix_article
 ---
@@ -19,6 +27,8 @@ output: radix::radix_article
 
 *Antonie Van Leeuwenhoek J Microbiology*, Springer. 2018.
 
-[Manuscript PDF](https://github.com/jananiravi/psp-actinobacteria/blob/master/manuscript/2018-Ravi-Psp_actinobacteria-Anto.pdf) • [Supp Material](https://github.com/jananiravi/psp-actinobacteria/blob/master/manuscript/2018-Ravi-Psp_actinobacteria-Anto_Supp.xlsx)
+## Manuscript
+[PDF](https://github.com/jananiravi/psp-actinobacteria/blob/master/manuscript/2018-Ravi-Psp_actinobacteria-Anto.pdf) • [Supp Material](https://github.com/jananiravi/psp-actinobacteria/blob/master/manuscript/2018-Ravi-Psp_actinobacteria-Anto_Supp.xlsx) • [Webpage](https://jananiravi.github.io/publication/2018/anto)
 
+## Contact
 For questions or comments, please contact [me via email](janani@msu.edu).
