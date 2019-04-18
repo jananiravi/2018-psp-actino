@@ -1,6 +1,6 @@
 ## Psp system in Actinobacteria
 
-**Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria**
+**Variations on a theme: evolution of the phage shock protein system in Actinobacteria**
 
 *Janani Ravi*, Vivek Anantharaman, L Aravind, Maria L Gennaro
 
